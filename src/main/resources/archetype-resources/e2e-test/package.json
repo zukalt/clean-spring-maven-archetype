@@ -1,0 +1,16 @@
+{
+  "name": "e2e-test",
+  "version": "1.0.0",
+  "description": "e2e test for application API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^6.2.1",
+    "should": "^13.2.3"
+  }
+}

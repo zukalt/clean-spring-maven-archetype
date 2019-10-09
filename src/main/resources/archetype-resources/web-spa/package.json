@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "replace this with your project package.json",
+  "repository": "https://github.com/zukalt/maven-archetype-clean-spring",
+  "scripts": {
+    "build": "node -v"
+  }
+}
